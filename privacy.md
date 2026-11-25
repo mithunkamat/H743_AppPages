@@ -23,6 +23,8 @@ Amazon Web Services (AWS, region Asia Pacific, Mumbai) or directly over Bluetoot
 | **Board status** (firmware version, uptime, temperature, LED state, Wi-Fi signal) | to show it to the users of that board | not stored by us beyond the board's last status (AWS IoT "shadow") |
 | On the phone: a 24-hour history of the readings | the graph in the app | on your phone only; removed with the app |
 
+The **camera** is used only while you scan a QR code on your board's screen (Add board, Scan board QR): the picture is read on the phone to find the code and is neither stored nor sent anywhere.
+
 We do **not** collect your location. On Android 11 and older Android itself asks for the location permission before an
 app may search for Bluetooth devices; the app uses it only for that search and never reads or stores a location. We do
 not use advertising, analytics or tracking, and we do not sell or share your data. Our processor is Amazon Web

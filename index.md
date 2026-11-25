@@ -10,4 +10,4 @@ Watch and control your H743 boards over the cloud or over Bluetooth next to the 
 - [Delete your account](delete-account.html)
 - [Open-source licences](licenses.html)
 
-App version 1.9.2+25; pages generated 2026-11-24.
+App version 1.12.0+32; pages generated 2026-11-25.
